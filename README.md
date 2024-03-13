@@ -1,6 +1,6 @@
 ## Installation
 
-Import file yang bernama [database](dbtopup.sql) ke dalam database MySQL anda.
+Import file [database](dbtopup.sql) ke dalam database MySQL anda.
 
 ```bash
 1. Cari menu Databases pada cPanel dan pilih phpmyadmin
