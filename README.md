@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hYgKb-Z4)
-=======
+
 ## Installation
 
 Import file [database](dbtopup.sql) ke dalam database MySQL anda.
@@ -15,4 +14,3 @@ Import file [database](dbtopup.sql) ke dalam database MySQL anda.
 ## License
 
 [MIT](LICENSE)
->>>>>>> e88c79a14f748d7f488173289107db778a85d0aa
